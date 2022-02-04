@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+> Bonjour a tous
 
 [![Twitter: Xephi](https://img.shields.io/twitter/follow/MasterLaplace?style=social)](https://twitter.com/MasterLaplace)
 [![GitHub Xephi](https://img.shields.io/github/followers/MasterLaplace?label=follow&style=social)](https://github.com/MasterLaplace)
