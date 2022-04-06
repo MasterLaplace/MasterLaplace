@@ -19,8 +19,11 @@
 </a>
 
 ---------------
+### 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MasterLaplace&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MasterLaplace&theme=juicyfresh&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---------------
 
 [![Twitter: MasterLaplace](https://img.shields.io/twitter/follow/MasterLaplace?style=social)](https://twitter.com/MasterLaplace)
 [![GitHub MasterLaplace](https://img.shields.io/github/followers/MasterLaplace?label=follow&style=social)](https://github.com/MasterLaplace)
