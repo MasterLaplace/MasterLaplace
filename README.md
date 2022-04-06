@@ -6,6 +6,8 @@
 
 >  Ce n’est qu’au début du crépuscule que la chouette de Minerve prend son envol.
 
+---------------
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Beafowl-Pull&theme=omni" />
 </a>
