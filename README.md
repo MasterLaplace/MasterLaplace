@@ -11,11 +11,11 @@
 ---------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Master_Laplace-Pull&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MasterLaplace-Pull&theme=omni" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master_Laplace-Pull&langs_count=8&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace-Pull&langs_count=8&theme=omni" />
 </a>
 
 [![Twitter: MasterLaplace](https://img.shields.io/twitter/follow/MasterLaplace?style=social)](https://twitter.com/MasterLaplace)
