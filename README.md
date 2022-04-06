@@ -18,6 +18,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&langs_count=8&theme=omni" />
 </a>
 
+---------------
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Twitter: MasterLaplace](https://img.shields.io/twitter/follow/MasterLaplace?style=social)](https://twitter.com/MasterLaplace)
 [![GitHub MasterLaplace](https://img.shields.io/github/followers/MasterLaplace?label=follow&style=social)](https://github.com/MasterLaplace)
 
