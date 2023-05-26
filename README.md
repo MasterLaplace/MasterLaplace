@@ -30,12 +30,13 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterLaplace&theme=omni" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&langs_count=8&theme=omni" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MasterLaplace&theme=omni" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&langs_count=8&theme=omni" />
+  </a>
+  <figure><embed src="https://wakatime.com/share/@MasterLaplace/1fa6fb27-c206-4f2d-82d4-57d543ce280f.svg"></embed></figure>
 </p>
 
 ---------------
