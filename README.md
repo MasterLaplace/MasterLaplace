@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Master Laplace</h1>
 
 - 👀 I’m interested in Computer Science, Network, Mathematics, Physics, Philosophy, and more.
-- 🔭 I’m currently working on [Engine-3D](https://github.com/MasterLaplace/Engine-3D)
-- 🌱 I’m currently learning NestJs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MasterLaplace&label=Profile%20views&color=0e75b6&style=flat" alt="MasterLaplace"/> <a href="https://wakatime.com/@475e3bd8-d187-42e2-80e1-ceda0de2f567"><img src="https://wakatime.com/badge/user/475e3bd8-d187-42e2-80e1-ceda0de2f567.svg" alt="Total time coded since May 7 2023" /></a></p>
+- 🔭 I’m currently working 3 different projects that will be linked into one : [Engine-3D](https://github.com/MasterLaplace/Engine-3D), [Flakkari](https://github.com/MasterLaplace/Flakkari), [LplKernel](https://github.com/MasterLaplace/LplKernel)
+- 🌱 I’m currently learning too much
+- 💞️ I’m currently collaborating on [EngineSquared](https://github.com/EngineSquared/EngineSquared)
+- 📫 How to reach me, on Discord at _gigabird
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MasterLaplace&label=Profile%20views&color=0e75b6&style=flat" alt="MasterLaplace"/>
+  <a href="https://wakatime.com/@475e3bd8-d187-42e2-80e1-ceda0de2f567"><img src="https://wakatime.com/badge/user/475e3bd8-d187-42e2-80e1-ceda0de2f567.svg" alt="Total time coded since May 7 2023" /></a>
+  <a href="https://github.com/MasterLaplace"><img src="https://img.shields.io/github/followers/MasterLaplace?label=follow&style=social" alt="Numbers of followers" /></a>
+</p>
 
 ---------------
-
+**My favorite quote :**
 > The owl of Minerva takes its flight only when the shades of night are gathering.
 
 ---------------
@@ -39,7 +44,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MasterLaplace&theme=omni" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&langs_count=8&theme=omni" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&layout=compact&langs_count=10&theme=omni" />
   </a>
   <figure><embed src="https://wakatime.com/share/@MasterLaplace/1fa6fb27-c206-4f2d-82d4-57d543ce280f.svg"></embed></figure>
 </p>
@@ -49,9 +54,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasterLaplace&theme=juicyfresh&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---------------
-
-[![Twitter: MasterLaplace](https://img.shields.io/twitter/follow/MasterLaplace?style=social)](https://twitter.com/MasterLaplace)
-[![GitHub MasterLaplace](https://img.shields.io/github/followers/MasterLaplace?label=follow&style=social)](https://github.com/MasterLaplace)
 
 <!---
 MasterLaplace/MasterLaplace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
