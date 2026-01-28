@@ -11,13 +11,13 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v5
+      uses: actions/checkout@v4
 
     - name: Generate trophy
       uses: Erik-Donath/github-profile-trophy@feature/generate-svg
       with:
         username: MasterLaplace
-        output_path: trophy.svg
+        output_path: ${{ github.workspace }}/trophy.svg
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Update README with local trophy reference
