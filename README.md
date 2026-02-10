@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Master Laplace</h1>
 
 - 👀 I’m interested in Computer Science, Network, Mathematics, Physics, Philosophy, and more.
-- 🔭 I’m currently working 3 different projects that will be linked into one : [Engine-3D](https://github.com/MasterLaplace/Engine-3D), [Flakkari](https://github.com/MasterLaplace/Flakkari), [LplKernel](https://github.com/MasterLaplace/LplKernel)
+- 🔭 I’m currently working 3 different projects that will be linked into one : [Engine-3D](https://github.com/MasterLaplace/Engine-3D), [Flakkari](https://github.com/MasterLaplace/Flakkari), [LplKernel](https://github.com/MasterLaplace/LplKernel), [LplPlugin](https://github.com/MasterLaplace/LplPlugin)
 - 🌱 I’m currently learning too much
 - 💞️ I’m currently collaborating on [EngineSquared](https://github.com/EngineSquared/EngineSquared)
 - 📫 How to reach me, on Discord at _gigabird
