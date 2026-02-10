@@ -41,17 +41,17 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="stats/github-stats.svg" />
+    <img src="cards/github-stats.svg" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="stats/top-langs.svg" />
+    <img src="cards/top-langs.svg" />
   </a>
-  <img src="stats/wakatime-stats.svg" />
+  <img src="cards/wakatime-stats.svg" />
 </div>
 
 ---------------
 # 🏆 GitHub Profile Trophy
-[![trophy](trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](cards/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---------------
 
