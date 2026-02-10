@@ -1,33 +1,63 @@
-name: Generate and Deploy Trophy
+name: Generate Stats and Trophy
 on:
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
-  my_job:
-    name: Generate and deploy trophy
+  generate-cards:
+    name: Generate stats cards and trophy
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Generate trophy
+    - name: Create stats directory
+      run: mkdir -p stats
+
+    - name: Generate GitHub Stats Card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: stats
+        options: username=MasterLaplace&show_icons=true&theme=radical
+        path: stats/github-stats.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Generate Top Languages Card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: top-langs
+        options: username=MasterLaplace&layout=compact&langs_count=10&theme=radical
+        path: stats/top-langs.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Generate WakaTime Card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: wakatime
+        options: username=MasterLaplace
+        path: stats/wakatime-stats.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Generate Trophy
       uses: Erik-Donath/github-profile-trophy@feature/generate-svg
       with:
         username: MasterLaplace
         output_path: ${{ github.workspace }}/trophy.svg
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Update README with local trophy reference
+    - name: Update README with local references
       run: |
+        sed -i 's|https://github-readme-stats.vercel.app/api?username=MasterLaplace&theme=omni|stats/github-stats.svg|g' README.md
+        sed -i 's|https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&layout=compact&langs_count=10&theme=omni|stats/top-langs.svg|g' README.md
+        sed -i 's|https://github-readme-stats.vercel.app/api/wakatime?username=MasterLaplace&layout=compact&langs_count=14&custom_title=WakaTime%20Stats%20since%20May%207%202023|stats/wakatime-stats.svg|g' README.md
         sed -i 's|https://github-profile-trophy.vercel.app/?username=MasterLaplace&theme=juicyfresh&column=7&margin-w=15&margin-h=15|trophy.svg|g' README.md
 
     - name: Commit and push changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add trophy.svg README.md
-        git commit -m "chore: update trophy SVG" || echo "No changes to commit"
+        git add stats/ trophy.svg README.md
+        git commit -m "chore: update stats cards and trophy" || echo "No changes to commit"
         git push

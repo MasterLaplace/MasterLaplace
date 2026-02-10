@@ -41,12 +41,12 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MasterLaplace&theme=omni" />
+    <img src="stats/github-stats.svg" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLaplace&layout=compact&langs_count=10&theme=omni" />
+    <img src="stats/top-langs.svg" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MasterLaplace&layout=compact&langs_count=14&custom_title=WakaTime%20Stats%20since%20May%207%202023" />
+  <img src="stats/wakatime-stats.svg" />
 </div>
 
 ---------------
