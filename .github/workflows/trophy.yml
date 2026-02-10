@@ -20,7 +20,7 @@ jobs:
       uses: readme-tools/github-readme-stats-action@v1
       with:
         card: stats
-        options: username=MasterLaplace&show_icons=true&theme=radical
+        options: username=MasterLaplace&theme=omni
         path: stats/github-stats.svg
         token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
       uses: readme-tools/github-readme-stats-action@v1
       with:
         card: top-langs
-        options: username=MasterLaplace&layout=compact&langs_count=10&theme=radical
+        options: username=MasterLaplace&layout=compact&langs_count=10&theme=omni
         path: stats/top-langs.svg
         token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
       uses: readme-tools/github-readme-stats-action@v1
       with:
         card: wakatime
-        options: username=MasterLaplace
+        options: username=MasterLaplace&layout=compact&langs_count=14&custom_title=WakaTime%20Stats%20since%20May%207%202023
         path: stats/wakatime-stats.svg
         token: ${{ secrets.GITHUB_TOKEN }}
 
